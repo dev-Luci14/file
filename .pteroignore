@@ -1,6 +1,5 @@
-/.cache
-/.git
-/.npm
+/package-lock.json
 /node_modules
 /sessions
 /tmp/*
+/.*\/
