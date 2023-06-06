@@ -2,4 +2,4 @@ Ini adalah daftar List IP yang diizinkan menggunakan Docker :
 
 Master
 139.99.76.45
-
+139.99.219.94
