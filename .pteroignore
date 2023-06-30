@@ -3,4 +3,10 @@
 /cr
 /sessions
 /tmp/*
-/.*\/
+/.*
+**/package-lock.json
+**/node_modules
+**/cr
+**/sessions
+**/tmp/**
+**/.*
