@@ -1,5 +1,5 @@
 #Ini adalah daftar List IP yang diizinkan menggunakan Docker :
 #Silahkan fork, tambahkan, pull request
 
-IP | NAMA HOST | IG | NO.HP | IG | TGL EDIT | BANNER
+IP | NAMA HOST | IG | WHATSAPP | IG | TGL EDIT | BANNER
 172.104.51.87|KANGYUD HOST|083155997772|@yudha_sehat|13/07/2023|Jasa Recode/Add Fitur BOT Whatsapp 083155997772
