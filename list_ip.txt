@@ -1,7 +1,5 @@
-Ini adalah daftar List IP yang diizinkan menggunakan Docker :
+#Ini adalah daftar List IP yang diizinkan menggunakan Docker :
+#Silahkan fork, tambahkan, pull request
 
-Master
-24.199.97.75
-114.122.114.155
-146.190.109.63
-172.104.51.87
+IP | NAMA HOST | IG | NO.HP | IG | TGL EDIT
+172.104.51.87|KANGYUD HOST|083155997772|@yudha_sehat|13/07/2023
